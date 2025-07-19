@@ -50,10 +50,10 @@ The system uses a use case diagram approach to connect different functionalities
 [Add usage instructions here]
 
 ## Screenshots
-<img src="app-screenshots/image.png" alt="Main Interface" width="300">  <img src="app-screenshots/image_2.png" alt="Main Interface" width="300">
-<img src="app-screenshots/image_3.png" alt="Main Interface" width="300">  <img src="app-screenshots/image_4.png" alt="Main Interface" width="300">
-<img src="app-screenshots/image_5.png" alt="Main Interface" width="300">
-<img src="app-screenshots/image_6.png" alt="Main Interface" width="300">
+<img src="app-screenshots/image.png" alt="Main Interface" height="170">  <img src="app-screenshots/image_2.png" alt="Main Interface" height="170">
+<img src="app-screenshots/image_3.png" alt="Main Interface" height="170">  <img src="app-screenshots/image_4.png" alt="Main Interface" height="170">
+<img src="app-screenshots/image_5.png" alt="Main Interface" height="170">
+<img src="app-screenshots/image_6.png" alt="Main Interface" height="170">
 
 ## Database
 
