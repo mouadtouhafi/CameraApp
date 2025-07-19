@@ -52,13 +52,13 @@ The system uses a use case diagram approach to connect different functionalities
 ## Screenshots
 
 <!-- Add your project screenshots here -->
-![Main Interface](path/to/main-interface-screenshot.png)
+<img src="app-screenshots/screen%20(2).png" alt="Main Interface" width="300" style="border-radius: 30px;">
 *Main application interface with all control buttons*
 
-![Configuration Window](path/to/configuration-window-screenshot.png)
+![Configuration Window](app-screenshots/screen (3).png)
 *Configuration window for system management*
 
-![Camera Interface](path/to/camera-interface-screenshot.png)
+![Camera Interface](app-screenshots/screen (4).png) (app-screenshots/screen (5).png)
 *Camera interface for facial/vehicle recognition*
 
 ## Database
