@@ -41,14 +41,6 @@ The configuration window provides administrator-only access to manage system par
 
 The system uses a use case diagram approach to connect different functionalities, ensuring seamless integration between resident recognition, vehicle identification, and access control management.
 
-## Installation
-
-[Add installation instructions here]
-
-## Usage
-
-[Add usage instructions here]
-
 ## Screenshots
 <img src="app-screenshots/image.png" alt="Main Interface" height="170">  <img src="app-screenshots/image_2.png" alt="Main Interface" height="170">
 <img src="app-screenshots/image_3.png" alt="Main Interface" height="170">  <img src="app-screenshots/image_4.png" alt="Main Interface" height="170">
@@ -71,15 +63,3 @@ The system maintains a database of:
 - Administrator-only configuration access
 - Encrypted resident and vehicle data storage
 - Screenshot logging for security monitoring
-
-## Contributing
-
-[Add contributing guidelines here]
-
-## License
-
-[Add license information here]
-
-## Contact
-
-[Add contact information here]
